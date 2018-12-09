@@ -1,1 +1,5 @@
-console.log('helloGitFlowWorld!!!')
+(function (arg) {
+    console.log(arg)
+})(10)
+
+console.log('helloGitFlowWorld!!!');
