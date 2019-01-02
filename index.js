@@ -1,5 +1,8 @@
 (function (arg) {
-    console.log(arg)
+    console.log('arg = ', arg)
+	
 })(10)
 
 console.log('helloGitFlowWorld!!!');
+
+// klass
