@@ -3,12 +3,12 @@
 	
 })(10)
 
-<<<<<<< HEAD
+
 console.log('helloGitFlowWorld!!!!');
-=======
+
 console.log('helloGitFlowWorld!!!');
 
 // klass
 
 // i love Valyaaa!!!
->>>>>>> new
+
