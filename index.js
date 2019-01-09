@@ -6,7 +6,7 @@
 
 console.log('helloGitFlowWorld!!!!');
 
-console.log('helloGitFlowWorld!!!');
+console.log('helloGitFlowWorld!!!!!');
 
 // klass
 
